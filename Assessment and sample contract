@@ -1,0 +1,33 @@
+Hackit & Run LLP (H&R) is a firm of solicitors specialising in property transactions in the UK and 
+overseas. The firm has realised that property transactions are increasingly dealt with over remote 
+communications. This has been exemplified by the fact that one of its main clients, a property developer 
+called Mrs. Harvey (the buyer) has been trying to purchase a parcel of land from Mr L.M. Facey (the 
+seller). However both Mrs. Harvey and Mr Facey’s work means that they are constantly travelling and it 
+is highly unlikely that they will be able to visit their solicitors to finalise the land deal. In order that H&R 
+retains its market share it is proposed that a comprehensive system for document handling, exchange 
+and signing be established that is consistent with legal requirements and is fully enforceable under UK 
+law. 
+Consider the process of exchange of contracts with the land transaction between Mrs. Harvey and Mr 
+Facey as an example and devise a communicating protocol between three parties: H&R, the seller’s 
+solicitor and Mrs. Harvey, the buyer. Note the following points: - - - - - 
+All of H&R’s communication with Mr Facey, the property seller is carried on with the seller’s solici- 
+tor. There is no direct communication between H&R and the seller, Mr Facey. 
+Contract and exchange – H&R will receive the contract from the seller’s solicitor and forward it to 
+Mrs Harvey. 
+Mrs Harvey digitally signs the contract (legally binding) and returns it to H&R. 
+H&R sends the signed contract to the seller’s solicitor. 
+H&R might have dealt with the seller’s solicitor before. It would be convenient if secure communi- 
+cation is simplified between both parties if they have already communicated securely without loss 
+of confidentiality, integrity and availability. Consider both cases, i.e. 
+a) H&R and the seller’s solicitor have communicated already and 
+b) this is the first time that H&R and the seller’s solicitor have communicated. 
+Identify suitable encryption algorithms utilized in your contract exchange protocol. You can choose 
+one from what you have studied or do research and look for one, or more algorithms. Justify your 
+algorithm choices at the various stages of your protocol. Use suitable graphics and pseudocode or, 
+for a higher level of difficulty, a full functioning code, using a programming language of your choice, to 
+clearly illustrate your protocol. Identify the strengths and limitations of your protocol and discuss your 
+findings.
+
+
+This Agreement is made between Mrs. Harvey and Mr. L.M. Facey...
+Date: 21 July 2025
